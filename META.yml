@@ -1,5 +1,5 @@
 ---
-abstract: ~
+abstract: 'Testing environments and skipping by result of the testing'
 author:
   - 'Toru Yamaguchi <zigorou@cpan.org>'
 build_requires:
@@ -24,4 +24,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/zigorou/p5-test-requires-env.git
-version: 0.01
+version: 0.02
